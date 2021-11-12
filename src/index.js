@@ -73,7 +73,7 @@ function scrollToRenderedMarkup() {
       behavior: 'smooth',
       block: 'end',
     });
-  }, 250);
+  }, 150);
 }
 
 function openModal(event) {
